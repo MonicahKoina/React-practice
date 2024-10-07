@@ -1,9 +1,11 @@
 import './App.css'
-import React, {useState} from 'react'
+import StringUpdate from './Stringupdate'
+import React from 'react'
 
 function App() {
   return (
     <>
+    <StringUpdate/>
     </>
   )
 }
